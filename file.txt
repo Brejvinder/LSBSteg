@@ -1,0 +1,4 @@
+Hello,
+
+This is a text file to encode in the image.
+
