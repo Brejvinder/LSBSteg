@@ -2,8 +2,8 @@
 LSB Steganography with C++
 
 ## Requirements
-CMake
-OpenCV
+- CMake
+- OpenCV
 
 ## Building
 While in the LSBSteg directory
